@@ -11,9 +11,12 @@
 
 ### 1. Clone and Install Dependencies
 ```sh
-# Clone the repository
+# Clone the repository - DON'T DOWNLOAD ZIP FILE
 git clone <repository-url>
 cd CodeceptJs
+
+# Install sdk
+add sdk path to environment variable
 
 # Install dependencies
 npm install
